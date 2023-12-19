@@ -28,3 +28,5 @@ Our best model reached an accuracy of 99.5% on our own test set, and 98.3% on th
 ![kernel_weights_train](figures\digit_3d_first_conv_kernel_weights.png)
 
 *Figure 4: The evolution of the distribution of the weights of the first convolutional layer kernel during training.*
+
+Our results were very good, **ranking 1st** in the classification task since it's launch in 2016. The accuracy of our model on the test set was 99.5% with a log loss of 0.06. Each model was additionally evaluated on a secret test set, where our model had an accuracy of 98.4%.
